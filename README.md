@@ -22,4 +22,5 @@ This project utilizes the Uphold API to provide timely alerts regarding price os
 ## Usage
 
 To use the bot you simply have to paste the following command to your command line:
-node index.js
+
+- node index.js
